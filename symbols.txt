@@ -1,0 +1,18 @@
+# NSE Symbols — one per line, no .NS suffix needed
+# Lines starting with # are ignored
+
+RELIANCE
+TCS
+INFY
+HDFCBANK
+ICICIBANK
+SBIN
+WIPRO
+AXISBANK
+LT
+KOTAKBANK
+BAJFINANCE
+MARUTI
+SUNPHARMA
+ADANIENT
+NTPC
